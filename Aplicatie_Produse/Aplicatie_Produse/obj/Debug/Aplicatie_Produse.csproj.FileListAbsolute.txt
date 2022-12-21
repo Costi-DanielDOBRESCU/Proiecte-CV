@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\Aplicatie_Produse\Aplicatie_Produse\bin\Debug\Aplicatie_Produse.exe.config
+C:\Users\Daniel\source\repos\Aplicatie_Produse\Aplicatie_Produse\bin\Debug\Aplicatie_Produse.exe
+C:\Users\Daniel\source\repos\Aplicatie_Produse\Aplicatie_Produse\bin\Debug\Aplicatie_Produse.pdb
+C:\Users\Daniel\source\repos\Aplicatie_Produse\Aplicatie_Produse\obj\Debug\Aplicatie_Produse.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Aplicatie_Produse\Aplicatie_Produse\obj\Debug\Aplicatie_Produse.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Aplicatie_Produse\Aplicatie_Produse\obj\Debug\Aplicatie_Produse.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Aplicatie_Produse\Aplicatie_Produse\obj\Debug\Aplicatie_Produse.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Aplicatie_Produse\Aplicatie_Produse\obj\Debug\Aplicatie_Produse.exe
+C:\Users\Daniel\source\repos\Aplicatie_Produse\Aplicatie_Produse\obj\Debug\Aplicatie_Produse.pdb
+C:\Users\Daniel\source\repos\Aplicatie_Produse\Aplicatie_Produse\obj\Debug\Aplicatie_Produse.MainForm.resources
