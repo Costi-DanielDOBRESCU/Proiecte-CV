@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\X_and_0\X_and_0\bin\Debug\X_and_0.exe.config
+C:\Users\Daniel\source\repos\X_and_0\X_and_0\bin\Debug\X_and_0.exe
+C:\Users\Daniel\source\repos\X_and_0\X_and_0\bin\Debug\X_and_0.pdb
+C:\Users\Daniel\source\repos\X_and_0\X_and_0\obj\Debug\X_and_0.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\X_and_0\X_and_0\obj\Debug\X_and_0.Properties.Resources.resources
+C:\Users\Daniel\source\repos\X_and_0\X_and_0\obj\Debug\X_and_0.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\X_and_0\X_and_0\obj\Debug\X_and_0.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\X_and_0\X_and_0\obj\Debug\X_and_0.exe
+C:\Users\Daniel\source\repos\X_and_0\X_and_0\obj\Debug\X_and_0.pdb
+C:\Users\Daniel\source\repos\X_and_0\X_and_0\obj\Debug\X_and_0.mainForm.resources
